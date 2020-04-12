@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="hrm1:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7954b31c-183c-4c7b-99fc-5f39b5ce6008" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\apache\RepMaven" />
+        <option name="mavenHome" value="C:/apache/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="C:\apache\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+    <option name="vmOptions" value="-Dfile.encoding=GBK" />
+  </component>
+  <component name="ProjectId" id="1XuwSnfzVKramdt1VCogXbFzgtd" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\javaEE企业级\人事管理系统\hrm1\src\main\java\com\hrm\notice\dao" />
+      <recent name="C:\Users\Administrator\Desktop\javaEE企业级\人事管理系统\hrm1\src\main\java\com\hrm\dept\dao" />
+      <recent name="C:\Users\Administrator\Desktop\javaEE企业级\人事管理系统\hrm1\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\Administrator\Desktop\javaEE企业级\人事管理系统\hrm1\src\main\java\com\hrm\utils" />
+      <recent name="C:\Users\Administrator\Desktop\javaEE企业级\人事管理系统\hrm1" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.hrm.notice.dao" />
+      <recent name="com.hrm.notice.service" />
+      <recent name="com.hrm.commons.beans" />
+      <recent name="com.hrm.employee.dao" />
+      <recent name="com.hrm.job.dao" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.16" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.16" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="hrm1:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/hrm1_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_hrm1_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54695" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="hrm1:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="运行" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7954b31c-183c-4c7b-99fc-5f39b5ce6008" name="默认更改列表" comment="" />
+      <created>1581909289944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581909289944</updated>
+      <workItem from="1581909291859" duration="388000" />
+      <workItem from="1581909687204" duration="40000" />
+      <workItem from="1581926044155" duration="278000" />
+      <workItem from="1581926375844" duration="3112000" />
+      <workItem from="1582078120856" duration="1331000" />
+      <workItem from="1582079528372" duration="907000" />
+      <workItem from="1582080446246" duration="262000" />
+      <workItem from="1582080753510" duration="5076000" />
+      <workItem from="1582365251936" duration="3880000" />
+      <workItem from="1582369164676" duration="1163000" />
+      <workItem from="1582420117606" duration="6151000" />
+      <workItem from="1582429420400" duration="866000" />
+      <workItem from="1582683681262" duration="3150000" />
+      <workItem from="1583046436785" duration="15245000" />
+      <workItem from="1583115322202" duration="3446000" />
+      <workItem from="1583640062854" duration="5054000" />
+      <workItem from="1583653219861" duration="7052000" />
+      <workItem from="1584259356174" duration="589000" />
+      <workItem from="1584261538834" duration="4667000" />
+      <workItem from="1584266990006" duration="5189000" />
+      <workItem from="1584886796074" duration="4488000" />
+      <workItem from="1585462400325" duration="116000" />
+      <workItem from="1585462643465" duration="665000" />
+      <workItem from="1585467999324" duration="5793000" />
+      <workItem from="1585906878340" duration="3261000" />
+      <workItem from="1585968524515" duration="3148000" />
+      <workItem from="1585982980565" duration="10460000" />
+      <workItem from="1586660504911" duration="920000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="712" y="100" key="#Inspections" timestamp="1585468071011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="712" y="100" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1585468071011" />
+    <state x="812" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582686228649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="812" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582686228649" />
+    <state x="531" y="99" key="#com.intellij.ide.util.MemberChooser" timestamp="1585992810891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="531" y="99" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585992810891" />
+    <state x="423" y="77" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585469593973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="423" y="77" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585469593973" />
+    <state x="489" y="136" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1581926250336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="489" y="136" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581926250336" />
+    <state x="850" y="96" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1582369240794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="850" y="96" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1920.1040@0.0.1920.1040" timestamp="1582369240794" />
+    <state x="452" y="95" key="#项目结构" timestamp="1581926275426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="95" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1581926275426" />
+    <state x="845" y="157" key="FileChooserDialogImpl" timestamp="1582369236362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="157" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582369236362" />
+    <state width="1280" height="442" key="GridCell.Tab.0.bottom" timestamp="1583653612796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="442" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583653612796" />
+    <state width="1280" height="442" key="GridCell.Tab.0.center" timestamp="1583653612796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="442" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583653612796" />
+    <state width="1280" height="442" key="GridCell.Tab.0.left" timestamp="1583653612796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="442" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583653612796" />
+    <state width="1280" height="442" key="GridCell.Tab.0.right" timestamp="1583653612796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="442" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583653612796" />
+    <state width="1280" height="442" key="GridCell.Tab.1.bottom" timestamp="1583653612798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="442" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583653612798" />
+    <state width="1280" height="442" key="GridCell.Tab.1.center" timestamp="1583653612797">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="442" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583653612797" />
+    <state width="1280" height="442" key="GridCell.Tab.1.left" timestamp="1583653612796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="442" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583653612796" />
+    <state width="1280" height="442" key="GridCell.Tab.1.right" timestamp="1583653612797">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="442" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583653612797" />
+    <state width="1280" height="442" key="GridCell.Tab.2.bottom" timestamp="1583653612799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="442" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583653612799" />
+    <state width="1280" height="442" key="GridCell.Tab.2.center" timestamp="1583653612798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="442" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583653612798" />
+    <state width="1280" height="442" key="GridCell.Tab.2.left" timestamp="1583653612798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="442" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583653612798" />
+    <state width="1280" height="442" key="GridCell.Tab.2.right" timestamp="1583653612798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1280" height="442" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583653612798" />
+    <state x="145" y="40" key="Maven.ArtifactSearchDialog" timestamp="1583050754443">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="145" y="40" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583050754443" />
+    <state x="493" y="0" key="SettingsEditor" timestamp="1586660595427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="493" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586660595427" />
+    <state x="21" y="156" width="1495" height="1020" key="dock-window-1" timestamp="1585984592999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="21" y="156" width="1495" height="1020" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1585984592999" />
+    <state x="31" y="119" width="1883" height="1020" maximized="true" key="dock-window-2" timestamp="1585993277394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="31" y="119" width="1883" height="1020" maximized="true" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1585993277394" />
+    <state x="161" y="147" key="new project wizard" timestamp="1581926327523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="161" y="147" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1581926327523" />
+    <state x="642" y="66" key="refactoring.ChangeSignatureDialog" timestamp="1583671502267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="642" y="66" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583671502267" />
+    <state x="532" y="237" key="run.anything.popup" timestamp="1584267726228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584267726228" />
+    <state x="1019" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1585471752988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1019" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585471752988" />
+  </component>
+</project>
